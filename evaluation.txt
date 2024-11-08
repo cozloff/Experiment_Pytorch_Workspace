@@ -1,0 +1,35 @@
+Predictions for AUDUSD:
+  Label 0: 42558 times
+  Label 1: 0 times
+  Label 2: 6689 times
+
+Predictions for EURUSD:
+  Label 0: 36068 times
+  Label 1: 11968 times
+  Label 2: 1211 times
+
+Predictions for GBPUSD:
+  Label 0: 49247 times
+  Label 1: 0 times
+  Label 2: 0 times
+
+Predictions for NZDUSD:
+  Label 0: 40928 times
+  Label 1: 0 times
+  Label 2: 8319 times
+
+Predictions for USDCAD:
+  Label 0: 49247 times
+  Label 1: 0 times
+  Label 2: 0 times
+
+Predictions for USDCHF:
+  Label 0: 48184 times
+  Label 1: 0 times
+  Label 2: 1063 times
+
+Predictions for USDJPY:
+  Label 0: 49247 times
+  Label 1: 0 times
+  Label 2: 0 times
+

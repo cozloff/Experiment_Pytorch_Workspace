@@ -1,0 +1,36 @@
+Classification Report for USDJPY:
+              precision    recall  f1-score   support
+
+           0     0.8384    0.9503    0.8909    207261
+           1     0.2866    0.2517    0.2680     16596
+           2     0.5675    0.2231    0.3203     42232
+
+    accuracy                         0.7913    266089
+   macro avg     0.5642    0.4750    0.4930    266089
+weighted avg     0.7610    0.7913    0.7614    266089
+
+
+Classification Report for AUDUSD:
+              precision    recall  f1-score   support
+
+           0     0.8337    0.9483    0.8873     16580
+           1     0.2966    0.2571    0.2755      1404
+           2     0.5733    0.2230    0.3211      3422
+
+    accuracy                         0.7870     21406
+   macro avg     0.5679    0.4761    0.4946     21406
+weighted avg     0.7568    0.7870    0.7566     21406
+
+
+Classification Report for EURUSD:
+              precision    recall  f1-score   support
+
+           0     0.8370    0.9469    0.8885     42248
+           1     0.2851    0.2613    0.2727      3406
+           2     0.5729    0.2301    0.3283      8797
+
+    accuracy                         0.7882     54451
+   macro avg     0.5650    0.4794    0.4965     54451
+weighted avg     0.7598    0.7882    0.7595     54451
+
+

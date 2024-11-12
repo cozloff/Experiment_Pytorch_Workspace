@@ -1,0 +1,126 @@
+Overall Classification Report for AUDUSD:
+              precision    recall  f1-score   support
+
+           0     0.7771    0.8907    0.8301     24495
+           1     0.3122    0.2164    0.2556      7310
+           2     0.1531    0.1107    0.1285      4831
+
+    accuracy                         0.6533     36636
+   macro avg     0.4142    0.4060    0.4047     36636
+weighted avg     0.6021    0.6533    0.6229     36636
+
+Accuracy: 0.6533
+Precision: 0.6021
+Recall: 0.6533
+F1 Score: 0.6229
+
+Classification Report for Confidence Range 30-40%:
+Accuracy: 0.3720
+Precision: 0.3728
+Recall: 0.3720
+F1 Score: 0.3723
+              precision    recall  f1-score   support
+
+           0     0.5353    0.5266    0.5309      1280
+           1     0.2740    0.2879    0.2808       983
+           2     0.1602    0.1513    0.1557       522
+
+    accuracy                         0.3720      2785
+   macro avg     0.3232    0.3219    0.3224      2785
+weighted avg     0.3728    0.3720    0.3723      2785
+
+
+Classification Report for Confidence Range 40-50%:
+Accuracy: 0.4659
+Precision: 0.4124
+Recall: 0.4659
+F1 Score: 0.4327
+              precision    recall  f1-score   support
+
+           0     0.6076    0.7606    0.6756      5861
+           1     0.2297    0.1738    0.1979      3067
+           2     0.1655    0.1145    0.1354      2366
+
+    accuracy                         0.4659     11294
+   macro avg     0.3343    0.3496    0.3363     11294
+weighted avg     0.4124    0.4659    0.4327     11294
+
+
+Classification Report for Confidence Range 50-60%:
+Accuracy: 0.6287
+Precision: 0.5503
+Recall: 0.6287
+F1 Score: 0.5793
+              precision    recall  f1-score   support
+
+           0     0.7363    0.9067    0.8127      4385
+           1     0.2159    0.1135    0.1488      1507
+           2     0.2027    0.1349    0.1620       897
+
+    accuracy                         0.6287      6789
+   macro avg     0.3850    0.3850    0.3745      6789
+weighted avg     0.5503    0.6287    0.5793      6789
+
+
+Classification Report for Confidence Range 60-70%:
+Accuracy: 0.7146
+Precision: 0.6506
+Recall: 0.7146
+F1 Score: 0.6716
+              precision    recall  f1-score   support
+
+           0     0.7859    0.9248    0.8497      3418
+           1     0.2974    0.2080    0.2448       649
+           2     0.2832    0.1008    0.1487       635
+
+    accuracy                         0.7146      4702
+   macro avg     0.4555    0.4112    0.4144      4702
+weighted avg     0.6506    0.7146    0.6716      4702
+
+
+Classification Report for Confidence Range 70-80%:
+Accuracy: 0.8678
+Precision: 0.8219
+Recall: 0.8678
+F1 Score: 0.8322
+              precision    recall  f1-score   support
+
+           0     0.8972    0.9994    0.9455      3222
+           1     0.9048    0.2980    0.4484       255
+           2     0.0000    0.0000    0.0000       321
+
+    accuracy                         0.8678      3798
+   macro avg     0.6006    0.4325    0.4646      3798
+weighted avg     0.8219    0.8678    0.8322      3798
+
+
+Classification Report for Confidence Range 80-90%:
+Accuracy: 0.9453
+Precision: 0.9625
+Recall: 0.9453
+F1 Score: 0.9455
+              precision    recall  f1-score   support
+
+           0     0.9754    1.0000    0.9875      5510
+           1     1.0000    0.4171    0.5886       410
+           2     0.0000    0.0000    0.0000        90
+
+    accuracy                         0.9453      6010
+   macro avg     0.6585    0.4724    0.5254      6010
+weighted avg     0.9625    0.9453    0.9455      6010
+
+
+Classification Report for Confidence Range 90-100%:
+Accuracy: 0.8203
+Precision: 1.0000
+Recall: 0.8203
+F1 Score: 0.8790
+              precision    recall  f1-score   support
+
+           0     1.0000    1.0000    1.0000       819
+           1     1.0000    0.4852    0.6534       439
+           2     0.0000    0.0000    0.0000         0
+
+    accuracy                         0.8203      1258
+   macro avg     0.6667    0.4951    0.5511      1258
+weighted avg     1.0000    0.8203    0.8790      1258

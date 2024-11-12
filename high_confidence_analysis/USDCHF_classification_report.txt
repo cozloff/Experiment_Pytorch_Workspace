@@ -1,0 +1,15 @@
+Classification Report for USDCHF (Confidence > 50%):
+              precision    recall  f1-score   support
+
+           0     0.6710    0.9904    0.8000     25929
+           1     0.8025    0.0431    0.0818      5847
+           2     0.4566    0.0860    0.1447      8388
+
+    accuracy                         0.6636     40164
+   macro avg     0.6434    0.3731    0.3422     40164
+weighted avg     0.6454    0.6636    0.5586     40164
+
+Accuracy: 0.6636
+Precision: 0.6454
+Recall: 0.6636
+F1 Score: 0.5586

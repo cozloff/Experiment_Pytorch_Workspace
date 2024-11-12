@@ -1,0 +1,15 @@
+Classification Report for GBPUSD (Confidence > 70%):
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000     617.0
+           1     0.0000    0.0000    0.0000       0.0
+           2     0.0000    0.0000    0.0000       0.0
+
+    accuracy                         0.0000     617.0
+   macro avg     0.0000    0.0000    0.0000     617.0
+weighted avg     0.0000    0.0000    0.0000     617.0
+
+Accuracy: 0.0000
+Precision: 0.0000
+Recall: 0.0000
+F1 Score: 0.0000

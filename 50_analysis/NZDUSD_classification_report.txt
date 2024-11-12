@@ -1,0 +1,15 @@
+Classification Report for NZDUSD (Confidence > 50%):
+              precision    recall  f1-score   support
+
+           0     0.7459    0.9877    0.8499     23343
+           1     0.6309    0.1326    0.2192      4252
+           2     0.0000    0.0000    0.0000      4630
+
+    accuracy                         0.7329     32225
+   macro avg     0.4589    0.3734    0.3564     32225
+weighted avg     0.6235    0.7329    0.6446     32225
+
+Accuracy: 0.7329
+Precision: 0.6235
+Recall: 0.7329
+F1 Score: 0.6446

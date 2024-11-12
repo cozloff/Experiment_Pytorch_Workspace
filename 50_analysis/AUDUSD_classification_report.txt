@@ -1,0 +1,15 @@
+Classification Report for AUDUSD (Confidence > 50%):
+              precision    recall  f1-score   support
+
+           0     0.6961    0.9917    0.8180     17997
+           1     0.7802    0.0979    0.1739      5405
+           2     0.0000    0.0000    0.0000      3328
+
+    accuracy                         0.6875     26730
+   macro avg     0.4921    0.3632    0.3306     26730
+weighted avg     0.6264    0.6875    0.5859     26730
+
+Accuracy: 0.6875
+Precision: 0.6264
+Recall: 0.6875
+F1 Score: 0.5859

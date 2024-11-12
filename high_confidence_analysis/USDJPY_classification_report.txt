@@ -1,0 +1,15 @@
+Classification Report for USDJPY (Confidence > 50%):
+              precision    recall  f1-score   support
+
+           0     0.6625    0.9898    0.7937     14342
+           1     0.6419    0.3292    0.4352      5450
+           2     1.0000    0.0043    0.0085      4450
+
+    accuracy                         0.6604     24242
+   macro avg     0.7681    0.4411    0.4125     24242
+weighted avg     0.7198    0.6604    0.5690     24242
+
+Accuracy: 0.6604
+Precision: 0.7198
+Recall: 0.6604
+F1 Score: 0.5690

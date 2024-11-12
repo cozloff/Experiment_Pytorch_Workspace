@@ -1,0 +1,110 @@
+Overall Classification Report for AUDUSD:
+              precision    recall  f1-score   support
+
+           0     0.6801    1.0000    0.8096     24495
+           1     1.0000    0.0695    0.1300      7310
+           2     0.0000    0.0000    0.0000      4831
+
+    accuracy                         0.6825     36636
+   macro avg     0.5600    0.3565    0.3132     36636
+weighted avg     0.6542    0.6825    0.5672     36636
+
+Accuracy: 0.6825
+Precision: 0.6542
+Recall: 0.6825
+F1 Score: 0.5672
+
+Classification Report for Confidence Range 30-40%:
+Accuracy: 0.5652
+Precision: 0.9516
+Recall: 0.5652
+F1 Score: 0.6745
+              precision    recall  f1-score   support
+
+           0     0.1218    1.0000    0.2171        19
+           1     1.0000    0.5399    0.7012       326
+           2     0.0000    0.0000    0.0000         0
+
+    accuracy                         0.5652       345
+   macro avg     0.3739    0.5133    0.3061       345
+weighted avg     0.9516    0.5652    0.6745       345
+
+
+Classification Report for Confidence Range 40-50%:
+Accuracy: 0.7074
+Precision: 0.7801
+Recall: 0.7074
+F1 Score: 0.6600
+              precision    recall  f1-score   support
+
+           0     0.6650    1.0000    0.7988       947
+           1     1.0000    0.3423    0.5101       666
+           2     0.0000    0.0000    0.0000        48
+
+    accuracy                         0.7074      1661
+   macro avg     0.5550    0.4474    0.4363      1661
+weighted avg     0.7801    0.7074    0.6600      1661
+
+
+Classification Report for Confidence Range 50-60%:
+Accuracy: 0.5775
+Precision: 0.5684
+Recall: 0.5775
+F1 Score: 0.4362
+              precision    recall  f1-score   support
+
+           0     0.5733    1.0000    0.7288      4470
+           1     1.0000    0.0536    0.1018      1940
+           2     0.0000    0.0000    0.0000      1511
+
+    accuracy                         0.5775      7921
+   macro avg     0.5244    0.3512    0.2768      7921
+weighted avg     0.5684    0.5775    0.4362      7921
+
+
+Classification Report for Confidence Range 60-70%:
+Accuracy: 0.5311
+Precision: 0.2839
+Recall: 0.5311
+F1 Score: 0.3700
+              precision    recall  f1-score   support
+
+           0     0.5346    1.0000    0.6967      5453
+           1     0.0000    0.0000    0.0000      2923
+           2     0.0000    0.0000    0.0000      1891
+
+    accuracy                         0.5311     10267
+   macro avg     0.1782    0.3333    0.2322     10267
+weighted avg     0.2839    0.5311    0.3700     10267
+
+
+Classification Report for Confidence Range 70-80%:
+Accuracy: 0.7790
+Precision: 0.6069
+Recall: 0.7790
+F1 Score: 0.6823
+              precision    recall  f1-score   support
+
+           0     0.7790    1.0000    0.8758      7812
+           1     0.0000    0.0000    0.0000       984
+           2     0.0000    0.0000    0.0000      1232
+
+    accuracy                         0.7790     10028
+   macro avg     0.2597    0.3333    0.2919     10028
+weighted avg     0.6069    0.7790    0.6823     10028
+
+
+Classification Report for Confidence Range 80-90%:
+Accuracy: 0.9033
+Precision: 0.8160
+Recall: 0.9033
+F1 Score: 0.8575
+              precision    recall  f1-score   support
+
+           0     0.9033    1.0000    0.9492      5794
+           1     0.0000    0.0000    0.0000       471
+           2     0.0000    0.0000    0.0000       149
+
+    accuracy                         0.9033      6414
+   macro avg     0.3011    0.3333    0.3164      6414
+weighted avg     0.8160    0.9033    0.8575      6414

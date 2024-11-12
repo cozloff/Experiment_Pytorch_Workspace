@@ -1,0 +1,110 @@
+Overall Classification Report for NZDUSD:
+              precision    recall  f1-score   support
+
+           0     0.7176    0.9548    0.8194     28003
+           1     0.4179    0.1061    0.1693      6832
+           2     0.2349    0.0803    0.1197      6316
+
+    accuracy                         0.6796     41151
+   macro avg     0.4568    0.3804    0.3694     41151
+weighted avg     0.5938    0.6796    0.6040     41151
+
+Accuracy: 0.6796
+Precision: 0.5938
+Recall: 0.6796
+F1 Score: 0.6040
+
+Classification Report for Confidence Range 30-40%:
+Accuracy: 0.2703
+Precision: 0.4265
+Recall: 0.2703
+F1 Score: 0.2485
+              precision    recall  f1-score   support
+
+           0     0.1989    0.7563    0.3150       238
+           1     0.5796    0.1691    0.2619       538
+           2     0.3647    0.1360    0.1981       456
+
+    accuracy                         0.2703      1232
+   macro avg     0.3811    0.3538    0.2583      1232
+weighted avg     0.4265    0.2703    0.2485      1232
+
+
+Classification Report for Confidence Range 40-50%:
+Accuracy: 0.5203
+Precision: 0.4119
+Recall: 0.5203
+F1 Score: 0.4178
+              precision    recall  f1-score   support
+
+           0     0.5557    0.9072    0.6892      8157
+           1     0.2378    0.0455    0.0763      3739
+           2     0.2444    0.0765    0.1166      3110
+
+    accuracy                         0.5203     15006
+   macro avg     0.3459    0.3431    0.2940     15006
+weighted avg     0.4119    0.5203    0.4178     15006
+
+
+Classification Report for Confidence Range 50-60%:
+Accuracy: 0.6833
+Precision: 0.5937
+Recall: 0.6833
+F1 Score: 0.6073
+              precision    recall  f1-score   support
+
+           0     0.7159    0.9448    0.8146      7450
+           1     0.1933    0.0512    0.0810      1347
+           2     0.3992    0.1071    0.1689      1904
+
+    accuracy                         0.6833     10701
+   macro avg     0.4361    0.3677    0.3548     10701
+weighted avg     0.5937    0.6833    0.6073     10701
+
+
+Classification Report for Confidence Range 60-70%:
+Accuracy: 0.8020
+Precision: 0.6875
+Recall: 0.8020
+F1 Score: 0.7346
+              precision    recall  f1-score   support
+
+           0     0.8284    0.9895    0.9018      3907
+           1     0.2238    0.0988    0.1370       324
+           2     0.0556    0.0047    0.0087       633
+
+    accuracy                         0.8020      4864
+   macro avg     0.3692    0.3643    0.3492      4864
+weighted avg     0.6875    0.8020    0.7346      4864
+
+
+Classification Report for Confidence Range 70-80%:
+Accuracy: 0.9289
+Precision: 0.9378
+Recall: 0.9289
+F1 Score: 0.9240
+              precision    recall  f1-score   support
+
+           0     0.9653    1.0000    0.9824      6238
+           1     1.0000    0.3822    0.5531       450
+           2     0.0000    0.0000    0.0000       213
+
+    accuracy                         0.9289      6901
+   macro avg     0.6551    0.4607    0.5118      6901
+weighted avg     0.9378    0.9289    0.9240      6901
+
+
+Classification Report for Confidence Range 80-90%:
+Accuracy: 0.9007
+Precision: 0.9758
+Recall: 0.9007
+F1 Score: 0.9188
+              precision    recall  f1-score   support
+
+           0     0.9706    1.0000    0.9851      2013
+           1     1.0000    0.4401    0.6112       434
+           2     0.0000    0.0000    0.0000         0
+
+    accuracy                         0.9007      2447
+   macro avg     0.6569    0.4800    0.5321      2447
+weighted avg     0.9758    0.9007    0.9188      2447

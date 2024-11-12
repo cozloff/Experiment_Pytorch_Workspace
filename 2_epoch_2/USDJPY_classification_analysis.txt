@@ -1,0 +1,108 @@
+Overall Classification Report for USDJPY:
+              precision    recall  f1-score   support
+
+           0     0.6089    0.9500    0.7421     26897
+           1     0.4569    0.2672    0.3372     12081
+           2     1.0000    0.0042    0.0083     10094
+
+    accuracy                         0.5873     49072
+   macro avg     0.6886    0.4071    0.3625     49072
+weighted avg     0.6519    0.5873    0.4915     49072
+
+Accuracy: 0.5873
+Precision: 0.6519
+Recall: 0.5873
+F1 Score: 0.4915
+
+Classification Report for Confidence Range 30-40%:
+Accuracy: 0.3536
+Precision: 0.4706
+Recall: 0.3536
+F1 Score: 0.3113
+              precision    recall  f1-score   support
+
+           0     0.3575    0.6155    0.4523       658
+           1     0.3354    0.2727    0.3008       781
+           2     1.0000    0.0324    0.0627       340
+
+    accuracy                         0.3536      1779
+   macro avg     0.5643    0.3069    0.2719      1779
+weighted avg     0.4706    0.3536    0.3113      1779
+
+
+Classification Report for Confidence Range 40-50%:
+Accuracy: 0.5283
+Precision: 0.6065
+Recall: 0.5283
+F1 Score: 0.4272
+              precision    recall  f1-score   support
+
+           0     0.5641    0.9204    0.6995     11881
+           1     0.3358    0.2087    0.2574      5847
+           2     1.0000    0.0023    0.0045      5302
+
+    accuracy                         0.5283     23030
+   macro avg     0.6333    0.3771    0.3205     23030
+weighted avg     0.6065    0.5283    0.4272     23030
+
+
+Classification Report for Confidence Range 50-60%:
+Accuracy: 0.6082
+Precision: 0.6833
+Recall: 0.6082
+F1 Score: 0.5064
+              precision    recall  f1-score   support
+
+           0     0.6116    0.9847    0.7545      9174
+           1     0.5773    0.2663    0.3645      4052
+           2     1.0000    0.0055    0.0110      3434
+
+    accuracy                         0.6082     16660
+   macro avg     0.7296    0.4189    0.3767     16660
+weighted avg     0.6833    0.6082    0.5064     16660
+
+
+Classification Report for Confidence Range 60-70%:
+Accuracy: 0.7513
+Precision: 0.6409
+Recall: 0.7513
+F1 Score: 0.6775
+              precision    recall  f1-score   support
+
+           0     0.7571    0.9986    0.8612      4332
+           1     0.7009    0.4002    0.5095      1142
+           2     0.0000    0.0000    0.0000       892
+
+    accuracy                         0.7513      6366
+   macro avg     0.4860    0.4663    0.4569      6366
+weighted avg     0.6409    0.7513    0.6775      6366
+
+
+Classification Report for Confidence Range 70-80%:
+Accuracy: 0.8974
+Precision: 0.8057
+Recall: 0.8974
+F1 Score: 0.8490
+              precision    recall  f1-score   support
+
+           0     0.8866    1.0000    0.9399       852
+           1     0.9363    1.0000    0.9671       250
+           2     0.0000    0.0000    0.0000       126
+
+    accuracy                         0.8974      1228
+   macro avg     0.6076    0.6667    0.6357      1228
+weighted avg     0.8057    0.8974    0.8490      1228
+
+
+Classification Report for Confidence Range 80-90%:
+Accuracy: 1.0000
+Precision: 1.0000
+Recall: 1.0000
+F1 Score: 1.0000
+              precision    recall  f1-score   support
+
+           1     1.0000    1.0000    1.0000         9
+
+    accuracy                         1.0000         9
+   macro avg     1.0000    1.0000    1.0000         9
+weighted avg     1.0000    1.0000    1.0000         9

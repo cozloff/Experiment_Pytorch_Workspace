@@ -1,0 +1,15 @@
+Accumulated Classification Report (Confidence > 80% for all pairs):
+              precision    recall  f1-score   support
+
+           0     0.9327    0.8598    0.8948     12764
+           1     0.2800    0.4969    0.3582      1463
+           2     0.0000    0.0000    0.0000       987
+
+    accuracy                         0.7692     15214
+   macro avg     0.4042    0.4523    0.4177     15214
+weighted avg     0.8094    0.7692    0.7851     15214
+
+Accuracy: 0.7692
+Precision: 0.8094
+Recall: 0.7692
+F1 Score: 0.7851

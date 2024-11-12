@@ -1,0 +1,15 @@
+Classification Report for EURUSD (Confidence > 80%):
+              precision    recall  f1-score   support
+
+           0     0.7690    0.4735    0.5861       661
+           1     0.0000    0.0000    0.0000         2
+           2     0.0000    0.0000    0.0000        92
+
+    accuracy                         0.4146       755
+   macro avg     0.2563    0.1578    0.1954       755
+weighted avg     0.6733    0.4146    0.5132       755
+
+Accuracy: 0.4146
+Precision: 0.6733
+Recall: 0.4146
+F1 Score: 0.5132

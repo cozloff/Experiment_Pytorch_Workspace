@@ -1,0 +1,125 @@
+Overall Classification Report for USDCHF:
+              precision    recall  f1-score   support
+
+           0     0.7054    0.9948    0.8254     33717
+           1     0.0345    0.0031    0.0057      9710
+           2     0.4426    0.0601    0.1058      5776
+
+    accuracy                         0.6893     49203
+   macro avg     0.3942    0.3526    0.3123     49203
+weighted avg     0.5421    0.6893    0.5792     49203
+
+Accuracy: 0.6893
+Precision: 0.5421
+Recall: 0.6893
+F1 Score: 0.5792
+
+Classification Report for Confidence Range 30-40%:
+Accuracy: 0.2994
+Precision: 0.7697
+Recall: 0.2994
+F1 Score: 0.3633
+              precision    recall  f1-score   support
+
+           0     0.0976    0.8571    0.1752        14
+           1     0.9375    0.2459    0.3896       122
+           2     0.5000    0.2683    0.3492        41
+
+    accuracy                         0.2994       177
+   macro avg     0.5117    0.4571    0.3047       177
+weighted avg     0.7697    0.2994    0.3633       177
+
+
+Classification Report for Confidence Range 40-50%:
+Accuracy: 0.3410
+Precision: 0.2656
+Recall: 0.3410
+F1 Score: 0.2075
+              precision    recall  f1-score   support
+
+           0     0.3321    0.9623    0.4938      1911
+           1     0.0000    0.0000    0.0000      2452
+           2     0.6154    0.1067    0.1819      1499
+
+    accuracy                         0.3410      5862
+   macro avg     0.3158    0.3564    0.2252      5862
+weighted avg     0.2656    0.3410    0.2075      5862
+
+
+Classification Report for Confidence Range 50-60%:
+Accuracy: 0.6634
+Precision: 0.5272
+Recall: 0.6634
+F1 Score: 0.5365
+              precision    recall  f1-score   support
+
+           0     0.6641    0.9989    0.7978     14849
+           1     0.0000    0.0000    0.0000      5172
+           2     0.7989    0.0546    0.1021      2548
+
+    accuracy                         0.6634     22569
+   macro avg     0.4877    0.3512    0.3000     22569
+weighted avg     0.5272    0.6634    0.5365     22569
+
+
+Classification Report for Confidence Range 60-70%:
+Accuracy: 0.8209
+Precision: 0.6999
+Recall: 0.8209
+F1 Score: 0.7534
+              precision    recall  f1-score   support
+
+           0     0.8398    0.9952    0.9110      8378
+           1     0.0000    0.0000    0.0000      1407
+           2     0.2482    0.0843    0.1259       415
+
+    accuracy                         0.8209     10200
+   macro avg     0.3627    0.3599    0.3456     10200
+weighted avg     0.6999    0.8209    0.7534     10200
+
+
+Classification Report for Confidence Range 70-80%:
+Accuracy: 0.7595
+Precision: 0.7883
+Recall: 0.7595
+F1 Score: 0.7732
+              precision    recall  f1-score   support
+
+           0     0.9704    0.9330    0.9513       702
+           1     0.0000    0.0000    0.0000       110
+           2     0.0127    0.0377    0.0190        53
+
+    accuracy                         0.7595       865
+   macro avg     0.3277    0.3236    0.3235       865
+weighted avg     0.7883    0.7595    0.7732       865
+
+
+Classification Report for Confidence Range 80-90%:
+Accuracy: 0.8536
+Precision: 0.7497
+Recall: 0.8536
+F1 Score: 0.7983
+              precision    recall  f1-score   support
+
+           0     0.8784    1.0000    0.9352      7863
+           1     0.0000    0.0000    0.0000       447
+           2     0.0000    0.0000    0.0000       902
+
+    accuracy                         0.8536      9212
+   macro avg     0.2928    0.3333    0.3117      9212
+weighted avg     0.7497    0.8536    0.7983      9212
+
+
+Classification Report for Confidence Range 90-100%:
+Accuracy: 0.0000
+Precision: 0.0000
+Recall: 0.0000
+F1 Score: 0.0000
+              precision    recall  f1-score   support
+
+           1     0.0000    0.0000    0.0000       0.0
+           2     0.0000    0.0000    0.0000     318.0
+
+    accuracy                         0.0000     318.0
+   macro avg     0.0000    0.0000    0.0000     318.0
+weighted avg     0.0000    0.0000    0.0000     318.0

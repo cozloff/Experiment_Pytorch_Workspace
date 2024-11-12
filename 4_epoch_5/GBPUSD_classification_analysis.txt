@@ -1,0 +1,125 @@
+Overall Classification Report for GBPUSD:
+              precision    recall  f1-score   support
+
+           0     0.6630    0.7916    0.7216     29838
+           1     0.1991    0.1395    0.1641     10458
+           2     0.1767    0.1237    0.1455      8867
+
+    accuracy                         0.5325     49163
+   macro avg     0.3463    0.3516    0.3437     49163
+weighted avg     0.4766    0.5325    0.4991     49163
+
+Accuracy: 0.5325
+Precision: 0.4766
+Recall: 0.5325
+F1 Score: 0.4991
+
+Classification Report for Confidence Range 30-40%:
+Accuracy: 0.3841
+Precision: 0.3889
+Recall: 0.3841
+F1 Score: 0.3851
+              precision    recall  f1-score   support
+
+           0     0.5357    0.5338    0.5348      3102
+           1     0.1860    0.2311    0.2061      1324
+           2     0.2659    0.2117    0.2357      1521
+
+    accuracy                         0.3841      5947
+   macro avg     0.3292    0.3256    0.3256      5947
+weighted avg     0.3889    0.3841    0.3851      5947
+
+
+Classification Report for Confidence Range 40-50%:
+Accuracy: 0.3961
+Precision: 0.3720
+Recall: 0.3961
+F1 Score: 0.3766
+              precision    recall  f1-score   support
+
+           0     0.5458    0.6298    0.5848      6921
+           1     0.2151    0.2650    0.2375      3958
+           2     0.2149    0.1000    0.1365      3709
+
+    accuracy                         0.3961     14588
+   macro avg     0.3253    0.3316    0.3196     14588
+weighted avg     0.3720    0.3961    0.3766     14588
+
+
+Classification Report for Confidence Range 50-60%:
+Accuracy: 0.4775
+Precision: 0.3927
+Recall: 0.4775
+F1 Score: 0.4134
+              precision    recall  f1-score   support
+
+           0     0.5539    0.7869    0.6501      3816
+           1     0.1841    0.0531    0.0825      1957
+           2     0.2142    0.1746    0.1924      1157
+
+    accuracy                         0.4775      6930
+   macro avg     0.3174    0.3382    0.3083      6930
+weighted avg     0.3927    0.4775    0.4134      6930
+
+
+Classification Report for Confidence Range 60-70%:
+Accuracy: 0.5627
+Precision: 0.4539
+Recall: 0.5627
+F1 Score: 0.5024
+              precision    recall  f1-score   support
+
+           0     0.6674    0.8291    0.7395      3780
+           1     0.0000    0.0000    0.0000      1163
+           2     0.1605    0.1922    0.1750       952
+
+    accuracy                         0.5627      5895
+   macro avg     0.2760    0.3404    0.3048      5895
+weighted avg     0.4539    0.5627    0.5024      5895
+
+
+Classification Report for Confidence Range 70-80%:
+Accuracy: 0.6902
+Precision: 0.5504
+Recall: 0.6902
+F1 Score: 0.6121
+              precision    recall  f1-score   support
+
+           0     0.7620    0.9582    0.8489      6673
+           1     0.0000    0.0000    0.0000      1360
+           2     0.0236    0.0151    0.0184      1259
+
+    accuracy                         0.6902      9292
+   macro avg     0.2619    0.3244    0.2891      9292
+weighted avg     0.5504    0.6902    0.6121      9292
+
+
+Classification Report for Confidence Range 80-90%:
+Accuracy: 0.8197
+Precision: 0.7093
+Recall: 0.8197
+F1 Score: 0.7605
+              precision    recall  f1-score   support
+
+           0     0.8402    0.9711    0.9009      5226
+           1     0.0000    0.0000    0.0000       696
+           2     0.0000    0.0000    0.0000       269
+
+    accuracy                         0.8197      6191
+   macro avg     0.2801    0.3237    0.3003      6191
+weighted avg     0.7093    0.8197    0.7605      6191
+
+
+Classification Report for Confidence Range 90-100%:
+Accuracy: 0.0000
+Precision: 0.0000
+Recall: 0.0000
+F1 Score: 0.0000
+              precision    recall  f1-score   support
+
+           0     0.0000    0.0000    0.0000     320.0
+           2     0.0000    0.0000    0.0000       0.0
+
+    accuracy                         0.0000     320.0
+   macro avg     0.0000    0.0000    0.0000     320.0
+weighted avg     0.0000    0.0000    0.0000     320.0
